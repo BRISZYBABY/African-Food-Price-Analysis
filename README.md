@@ -24,11 +24,11 @@ Matplotlib & Seaborn: Statistical data visualization for uncovering trends and d
 SciPy: Advanced statistical testing and hypothesis validation 
 
 # Core Functionalities
-Data Preview
-Price Trends by Produce
-Comparison by Market Type
-Comparison by Country
-Average Prices & Trends
+Data Preview.
+Price Trends by Produce.
+Comparison by Market Type.
+Comparison by Country.
+Average Prices & Trends.
 
 # Requirement 
 All dependencies are listed in requirements.txt
